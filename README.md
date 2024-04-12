@@ -1,7 +1,7 @@
 # Sensor de Luminosidade com Arduino
 
 ## Descrição
-Este projeto utiliza um Arduino para medir o nível de luminosidade em uma sala e acender LEDs correspondentes ao nível de luz: verde, amarelo ou vermelho.
+Este projeto utiliza um Arduino para medir o nível de luminosidade em uma vinharia e acender LEDs correspondentes ao nível de luz: baixo: verde, médio: amarelo ou alto: vermelho
 
 ## Componentes
 - Arduino Uno
